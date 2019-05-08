@@ -1,1 +1,1 @@
-This is a hosting repo
+Hosting Repo for online image sharing
